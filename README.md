@@ -152,13 +152,4 @@ Tarun Gupta
 📦 GitHub: @tarun250
 💬 Project: FitTrack MERN Project
 
-🏁 License
-This project is open-source and available under the MIT License.
-
-⭐ Don’t forget to star this repo if you found it helpful!
-yaml
-Copy code
-
----
-
 
